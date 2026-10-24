@@ -1,6 +1,8 @@
+
 <div align="center">
-  <img src="assets/header.png" width="100%" alt="Anam Khan — handmade punk-zine inspired profile banner" />
+  <img src="./header.png" width="100%" alt="Anam Khan — profile banner">
 </div>
+      
 
 <div align="center">
   <sub>COMPUTER ENGINEERING STUDENT · MUMBAI, INDIA</sub>
