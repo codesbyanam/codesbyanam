@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="assets/01-about.png" width="100%" alt="01 — A little about me">
+  <img src="./01-about.png" width="100%" alt="01 — A little about me">
 </div>
 
 hey, i'm anam — a second-year computer engineering student trying different corners of tech and figuring out what i want to get really good at.
@@ -16,7 +16,7 @@ hey, i'm anam — a second-year computer engineering student trying different co
 right now that means building things, learning as i go, and occasionally spending way too long fixing one tiny bug. i haven't picked one lane yet, and i'm okay with that.
 
 <div align="center">
-  <img src="assets/02-workbench.png" width="100%" alt="02 — On the workbench">
+  <img src="./02-workbench.png" width="100%" alt="02 — On the workbench">
 </div>
 
 <table>
@@ -44,7 +44,7 @@ JAVA · APPLICATION LOGIC
 
 
 <div align="center">
-  <img src="assets/03-paused.png" width="100%" alt="03 — Paused projects">
+  <img src="./03-paused.png" width="100%" alt="03 — Paused projects">
 </div>
 
 <table>
@@ -71,7 +71,7 @@ ON HOLD
 
 
 <div align="center">
-  <img src="assets/04-toolbox.png" width="100%" alt="04 — Tools I'm exploring">
+  <img src="./04-toolbox.png" width="100%" alt="04 — Tools I'm exploring">
   <br><br>
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,git,github,vscode,figma&theme=dark" alt="Tools and technologies">
   <br>
@@ -80,7 +80,7 @@ ON HOLD
 
 
 <div align="center">
-  <img src="assets/05-notes.png" width="100%" alt="05 — Notes from the process">
+  <img src="./05-notes.png" width="100%" alt="05 — Notes from the process">
 </div>
 
 <table>
