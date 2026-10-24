@@ -1,6 +1,8 @@
+
 <div align="center">
-  <img src="assets/header.png" alt="Anam Khan — punk zine inspired profile banner" width="100%">
+  <img src="./header.png" alt="Anam Khan — punk zine inspired profile banner" width="100%">
 </div>
+
 
 <div align="center">
 
