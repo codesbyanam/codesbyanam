@@ -1,121 +1,133 @@
 <div align="center">
-
-<img src="assets/header.png" width="100%" alt="Anam Khan — punk zine inspired profile banner">
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2600&pause=850&color=E32636&center=true&vCenter=true&width=560&lines=computer+engineering+student;currently+in+my+build+era;trying+things+until+something+clicks" alt="Animated introduction">
-
+  <img src="assets/header.png" alt="Anam Khan — punk zine inspired profile banner" width="100%">
 </div>
 
 <div align="center">
 
-MUMBAI, INDIA　/　COMPUTER ENGINEERING　/　IN PROGRESS
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2800&pause=900&color=E32636&center=true&vCenter=true&width=620&lines=computer+engineering+student;currently+in+my+build+era;learning+by+building+%E2%80%94+not+by+pretending" alt="Animated introduction">
+
+`MUMBAI, INDIA` / `COMPUTER ENGINEERING` / `STILL EXPLORING`
+
 </div>
 
-01 — A LITTLE ABOUT ME
-hey, i'm anam.
+---
 
-i'm in my second year of computer engineering, exploring different corners of tech and seeing what i enjoy enough to keep building. some days that's frontend and visual design; other days it's Java logic, debugging, or learning a tool i've never touched before.
+## 01 / ABOUT ME
 
-i don't have my whole career mapped out yet. i'm using this time to try things, make projects, and get better by actually doing the work.
-currently collecting skills, unfinished tabs, and lessons from bugs.
+hey, i'm anam — a second-year computer engineering student trying different corners of tech and figuring out what i want to get really good at.
 
-02 — ON THE WORKBENCH
+right now, that means building things, learning as i go, and occasionally spending way too long fixing one tiny bug. i haven't picked one lane yet, and i'm okay with that.
+
+---
+
+## 02 / CURRENTLY ON MY DESK
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-STEAMFUEL-E32636?style=flat-square&labelColor=111111" alt="SteamFuel project label">
+<img src="https://img.shields.io/badge/01-STEAMFUEL-E32636?style=flat-square&labelColor=111111" alt="SteamFuel">
 
-SteamFuel
-A website for a healthy steamed-food brand. I'm working on the digital side of the idea — how it looks, feels, and presents the food.
+### SteamFuel
 
-WEB DESIGN · FRONTEND
+A website for a healthy steamed-food brand. I'm working on the digital experience — the look, the feel, and how the food gets presented.
+
+`WEB DESIGN` · `FRONTEND`
+
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-COMPLAINT_SYSTEM-E32636?style=flat-square&labelColor=111111" alt="Complaint system project label">
+<img src="https://img.shields.io/badge/02-JAVA_PROJECT-E32636?style=flat-square&labelColor=111111" alt="Java project">
 
-Complaint Management System
-A Java mini project focused on managing complaints and understanding how application logic fits together.
+### Complaint Management System
 
-JAVA · APPLICATION LOGIC
+A Java mini project about managing complaints and understanding how the pieces of an application fit together.
+
+`JAVA` · `APPLICATION LOGIC`
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
+*work in progress is still work.*
 
-Not everything is polished yet. That's why I'm building it.
 </div>
 
-03 — PAUSED, NOT DELETED
+---
+
+## 03 / CURRENTLY ON PAUSE
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-QUADRA — Health Guardian
+**QUADRA — Health Guardian**
 
 Healthcare assessment project.
 
-ON HOLD
+`ON HOLD`
+
 </td>
 <td width="50%" valign="top">
 
-
-Webathon 3.0
+**Webathon 3.0**
 
 Hackathon website project.
 
-ON HOLD
+`ON HOLD`
+
 </td>
 </tr>
 </table>
 
-04 — TOOLS I'M GETTING TO KNOW
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,git,github,vscode,figma&theme=dark" alt="Languages and tools"/>
-
-</div>
+## 04 / TOOLS I'M EXPLORING
 
 <div align="center">
-
-C　JAVA　PYTHON　JAVASCRIPT　HTML/CSS　REACT　GIT
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,git,github,vscode,figma&theme=dark" alt="Tools and technologies">
+  <p><sub>Different stages, different comfort levels. No fake percentages.</sub></p>
 </div>
 
-<p align="center"><sub>Different tools, different levels of experience. Still learning — no fake skill bars.</sub></p>
+---
 
-05 — NOTES TO SELF
+## 05 / NOTES FROM THE PROCESS
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-MAKE
+**MAKE**
 
-small things that work
+<br>
+
+something small
+
 </td>
 <td align="center" width="33%">
 
+**FIGURE IT OUT**
 
-BREAK
+<br>
 
-figure out why
+one bug at a time
+
 </td>
 <td align="center" width="33%">
 
+**DO IT AGAIN**
 
-REPEAT
+<br>
 
-get a little better
+a little better
+
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=E32636" width="100%" alt="Crimson divider">
-
-
-<sub>still exploring. still making things. see you in the commits.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E32636" width="100%" alt="Crimson divider">
+  <sub>still learning. still building. see you in the commits.</sub>
 </div>
